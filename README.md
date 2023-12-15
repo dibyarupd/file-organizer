@@ -1,5 +1,5 @@
 # file-organizer
-File Organizer used to move files from one folder of different types to specified folders, created using python.
+This file organizer is used to move files from one folder of different types to specified folders, and is created using python.
 
 This project will help you to organize your files present in a specific directory in a destination directory. The only changes you need to make in the code are elaborated as follows.
 
